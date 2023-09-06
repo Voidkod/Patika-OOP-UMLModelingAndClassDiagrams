@@ -1,6 +1,7 @@
-## Ödev
+# Ödev
 
-Bir hayvanat bahçesindeki hayvanlar hakkındaki bilgileri takip etmek için bir sistem tasarlıyorsunuz.
+### Bir hayvanat bahçesindeki hayvanlar hakkındaki bilgileri takip etmek için bir sistem tasarlıyorsunuz.
+
 Hayvanlar:
 * Atlar (atlar, zebralar, eşekler vb.),
 * Kedigiller (kaplanlar, aslanlar vb.),
@@ -14,6 +15,6 @@ Sistemin bu işlevleri yerine getirme mantığı, her gruplama için farklı ola
 
 Polimorfizm modelini kullanarak, yukarıda açıklanan durumu ele almak için bir sınıf diyagramı tasarlayın.
 
-## Cevap
+# Cevap
 
-![ZooClassDiagram](./ZooClassDiagram.PNG)
+![UmlDiagramZoo](./UmlDiagramZoo.PNG)
