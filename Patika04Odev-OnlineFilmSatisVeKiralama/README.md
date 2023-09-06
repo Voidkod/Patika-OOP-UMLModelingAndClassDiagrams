@@ -1,6 +1,6 @@
 # Ödev
 
-Online film satan veya kiralayan uygulamanın sistemini tasarlayın.
+### Online film satan veya kiralayan uygulamanın sistemini tasarlayın.
 
 * Uygulamada filmler listelenebilir, sıralanabilir ve kullanıcılar uygulamaya abone olabilir.
 * Kullanıcılar abonelik için sistem üzerinden kredi satın alır.
@@ -12,4 +12,4 @@ Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
 
 # Çözüm
 
-![OnlineMovieSales](./OnlineMovieSalesUMLClassDiagram.PNG)
+![OnlineMovieSales](./UmlDiagramOnlineMovieSales.PNG)
