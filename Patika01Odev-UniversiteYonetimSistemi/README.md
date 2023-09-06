@@ -1,17 +1,19 @@
 # Ödev
 
-1. Üniversiteye ait sınıflıklar, çalışma ofisleri ve departmanlar vardır.
+### Bir üniversite için genel ve basit bir sistem tasarlıyorsunuz.
 
-2. Departmanlara ait ofisler vardır.
+* Üniversiteye ait sınıflıklar, çalışma ofisleri ve departmanlar vardır.
 
-3. Üniversiteye ait çalışanlar vardır. Bu çalışanlar profesör veya memur olabilir.
+* Departmanlara ait ofisler vardır.
 
-4. Her çalışan bir ofiste çalışır.
+* Üniversiteye ait çalışanlar vardır. Bu çalışanlar profesör veya memur olabilir.
+
+* Her çalışan bir ofiste çalışır.
 
 Bu sistemi tasvir eden Class (Sınıf) diyagramını çiziniz.
 
 Not : Sınıflara ait nitelik ve davranışların belirtilmesine gerek yoktur.
 
-#Çözüm 
+# Çözüm 
 
 ![umldiagramunivercity](./UmlDiagramUnivercity.PNG)
