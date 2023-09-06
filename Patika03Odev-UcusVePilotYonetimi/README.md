@@ -1,6 +1,6 @@
-#Ödev
+# Ödev
 
-Uçuşların ve pilotların yönetimi için bir sistem tasarlayın.
+### Uçuşların ve pilotların yönetimi için bir sistem tasarlayın.
 
 * Hava yolu şirketleri uçuşları gerçekleştirir. Her hava yolunun bir kimliği vardır.
 * Hava yolu şirketi, farklı tipteki uçaklara sahiptir.
@@ -13,6 +13,6 @@ Uçuşların ve pilotların yönetimi için bir sistem tasarlayın.
 
 Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
 
-#Cevap
+# Çözüm
 
-![flightManagementUmlClassDiagram](./flightManagementUmlDiagram.PNG)
+![UmlDiagramFlightManagement](./UmlDiagramFlightManagement.PNG)
